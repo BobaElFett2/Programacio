@@ -12,6 +12,9 @@ public class prova {
         numero = r.nextInt((max - min) + 1) + min;
         System.out.println(numero);
 
+        System.out.println("Importar Cambios");
+        System.out.println("__init__");
+
 
 
 
